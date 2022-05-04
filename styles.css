@@ -1,0 +1,12 @@
+* {
+    color: steelblue;
+    font-family: monospace;
+}
+
+.food {
+    transition: color 0.1s;
+}
+
+.food:hover {
+    color:orange;
+}

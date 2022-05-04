@@ -1,0 +1,12 @@
+* {
+    color: steelblue;
+    font-family: monospace;
+}
+
+a {
+    transition: color 0.1s;
+}
+
+a:hover {
+    color:orange;
+}
